@@ -1,0 +1,25 @@
+{
+  "name": "my-blog-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-blog-page",
+  "author": "adrian-river",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.10.0",
+    "gatsby-plugin-sass": "^5.10.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^2.2.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.49.9"
+  }
+}
